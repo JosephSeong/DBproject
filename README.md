@@ -14,4 +14,4 @@
   + 운동 일지를 작성하여 신체 변화를 파악할 수 있게한다.
 
 -----------------------------------------------------------------
-![DBproject](https://user-images.githubusercontent.com/48307813/161555925-d48faa96-a39d-4cf2-b0a8-7a697d1b5130.PNG)
+![DBproject](https://user-images.githubusercontent.com/48307813/161556523-8dbffce9-e071-4f00-869c-186224c85ce4.PNG)
