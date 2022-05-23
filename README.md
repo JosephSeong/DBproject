@@ -48,5 +48,5 @@
 -----------------------------------------------------------------
 ### 릴레이션 스키마
 
-![image](https://user-images.githubusercontent.com/48307813/169826671-21c5d14f-90a0-417a-ba29-833da62882cf.png)
+![image](https://user-images.githubusercontent.com/48307813/169827051-78e7cba9-3d3d-4e7a-bd67-f902e6abbabc.png)
 
