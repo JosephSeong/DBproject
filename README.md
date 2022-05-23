@@ -52,22 +52,4 @@
 -----------------------------------------------------------------
 ### 테이블
 
-CREATE TABLE 회원(
-    회원아이디   VARCHAR(20)   NOT NULL,
-    회원명      VARCHAR(20)    NOT NULL,
-    나이        INT,
-    전화번호
-    주소
-    PRIMARY KEY(회원아이디),
-    CHECK (나이>= 0)
-    );
-    
-CREATE TABLE 회원(
-    회원아이디   VARCHAR(20)   NOT NULL,
-    회원명      VARCHAR(20)    NOT NULL,
-    나이        INT,
-    전화번호
-    주소
-    PRIMARY KEY(회원아이디),
-    CHECK (나이>= 0)
-    );
+
