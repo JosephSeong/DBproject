@@ -50,7 +50,6 @@
 
 ![image](https://user-images.githubusercontent.com/48307813/169839997-5792f133-8ccb-4c85-8149-df9050d23d1f.png)
 -----------------------------------------------------------------
-### 테이블
+### 테이블 스크립트
 
-![image](https://user-images.githubusercontent.com/48307813/169840137-94bd393f-3742-4e04-b69f-c5fb4eced713.png)
-
+![image](https://user-images.githubusercontent.com/48307813/169840502-d2b16e06-89ec-43fd-a746-27b4a332c839.png)
