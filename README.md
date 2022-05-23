@@ -52,4 +52,4 @@
 -----------------------------------------------------------------
 ### 테이블 스크립트
 
-![image](https://user-images.githubusercontent.com/48307813/169840502-d2b16e06-89ec-43fd-a746-27b4a332c839.png)
+![image](https://user-images.githubusercontent.com/48307813/169841408-08f54177-db21-4fdc-b790-fc7fcda28a3b.png)
