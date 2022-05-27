@@ -48,8 +48,8 @@
 -----------------------------------------------------------------
 ### 릴레이션 스키마
 
-![image](https://user-images.githubusercontent.com/48307813/169841041-bf23d533-957f-4894-a247-ad3dce0a1937.png)
+![image](https://user-images.githubusercontent.com/48307813/170719812-9a6a13a8-bedb-4603-955e-fd9286e2f4ad.png)
 -----------------------------------------------------------------
 ### 테이블 스크립트
 
-![image](https://user-images.githubusercontent.com/48307813/169841408-08f54177-db21-4fdc-b790-fc7fcda28a3b.png)
+![image](https://user-images.githubusercontent.com/48307813/170719884-36d96490-e7c0-46f4-9543-3d3e561d4384.png)
