@@ -64,7 +64,7 @@
     + 삭제 이상 : 회원이 탈퇴하는 경우 트레이너의 근무지 정보 삭제
     + 갱신 이상 : 트레이너의 근무지가 변경되는 경우 모두 찾아 변경해야 함
    
-   ![image](https://user-images.githubusercontent.com/48307813/170812045-648a792a-0621-4ca3-b45e-0bf19fb6266e.png)
+ ![image](https://user-images.githubusercontent.com/48307813/170812663-51cab365-c423-4152-b1c5-37375be0eeea.png)
    
    + 제3정규형
    
