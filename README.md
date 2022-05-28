@@ -56,6 +56,6 @@
 ## 정규화 과정
 
   + 제1정규형
-
+***
   + 제2정규형
     ![image](https://user-images.githubusercontent.com/48307813/170811498-e8e1d805-1401-44cd-bc78-b90280e00689.png)
