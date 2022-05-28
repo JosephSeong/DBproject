@@ -80,7 +80,7 @@
      
    + 보이스/코드 정규형
       
-      ![image](https://user-images.githubusercontent.com/48307813/170813922-7997a94e-262b-4cf2-80bf-1c4c02494ce2.png)
+      ![image](https://user-images.githubusercontent.com/48307813/170815983-0d7b8027-559d-4494-b677-a0231cd4dd78.png)
 
     
 
