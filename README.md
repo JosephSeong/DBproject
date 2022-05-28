@@ -66,5 +66,8 @@
    
    ![image](https://user-images.githubusercontent.com/48307813/170812045-648a792a-0621-4ca3-b45e-0bf19fb6266e.png)
    
+   + 제3정규형
+   
+    
 
     
