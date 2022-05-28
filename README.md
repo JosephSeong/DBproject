@@ -58,5 +58,4 @@
   + 제1정규형
 
   + 제2정규형
-    ![image](https://user-images.githubusercontent.com/48307813/170811445-d4507fb9-1907-47f4-80f9-ce0cd49a6175.png)
-
+    ![image](https://user-images.githubusercontent.com/48307813/170811498-e8e1d805-1401-44cd-bc78-b90280e00689.png)
