@@ -60,4 +60,8 @@
     
   + 제2정규형
    
-   ![image](https://user-images.githubusercontent.com/48307813/170811498-e8e1d805-1401-44cd-bc78-b90280e00689.png)
+   ![image](https://user-images.githubusercontent.com/48307813/170812045-648a792a-0621-4ca3-b45e-0bf19fb6266e.png)
+    + 삽입 이상 : 트레이너가 센터에 소속되려면 수강생 필요
+    + 삭제 이상 : 회원이 탈퇴하는 경우 트레이너의 근무지 정보 삭제
+    + 갱신 이상 : 트레이너의 근무지가 변경되는 경우 모두 찾아 변경해야 함
+    
