@@ -51,7 +51,7 @@
 -----------------------------------------------------------------
 ### 테이블 스크립트
 
-![image](https://user-images.githubusercontent.com/48307813/170816973-1a13893b-df84-4c14-9431-69c41690f4e7.png)
+![image](https://user-images.githubusercontent.com/48307813/170817069-1ece08a9-5751-4ee3-b11d-aebb7dd4e85b.png)
 
 ## 정규화 과정
 
