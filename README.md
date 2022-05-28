@@ -75,7 +75,7 @@
      + 삭제 이상 : 회원이 탈퇴하거나 PT 등록을 취소하면 트레이너가 해당 시간대 담당하는 정보도 같이 삭제
      + 갱신 이상 : 트레이너의 스케줄이 변경되면 일일이 찾아서 수정해야함
      
-     ![image](https://user-images.githubusercontent.com/48307813/170813845-7c78d5a2-e964-4c07-8528-b44a6505f53b.png)
+     ![image](https://user-images.githubusercontent.com/48307813/170814543-3f73b462-4037-44d7-888c-0c8bf963c964.png)
 
      
    + 보이스/코드 정규형
