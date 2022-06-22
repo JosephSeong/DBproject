@@ -30,6 +30,15 @@ namespace Health
                 if (txt == count) txt.Text = IdPlaceholder;
             }
         }
+        private void RemovePlaceholder(object sender, EventArgs e)
+        {
+            TextBox txt = (TextBox)sender;
+            if (txt.Text == IdPlaceholder)
+            { //텍스트박스 내용이 사용자가 입력한 값이 아닌 Placeholder일 경우에만, 커서 포커스일때 빈칸으로 만들기
+                txt.ForeColor = Color.Black; //사용자 입력 진한 글씨
+                txt.Text = string.Empty;     
+            }
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {

@@ -22,7 +22,7 @@ namespace Health
         private void button1_Click(object sender, EventArgs e)
         {
             string Conn = "Server=localhost;Database=Health;Uid=root;Pwd=1234;";
-            if (textBox1.Text == "")
+            //if (textBox1.Text == textBox1.Text + "")
             {
                 MySqlConnection conDataBase = new MySqlConnection(Conn);
                 MySqlCommand cmdDataBase = new MySqlCommand("select * from 트레이너스케줄;", conDataBase);
@@ -48,27 +48,25 @@ namespace Health
 
         private void button4_Click(object sender, EventArgs e)
         {
-            string Conn = "Server=localhost;Database=Health;Uid=root;Pwd=1234;";
-            if (textBox1.Text == "")
+            if (textBox3.Text == "" || textBox4.Text == "")
             {
-                MySqlConnection conDataBase = new MySqlConnection(Conn);
-                MySqlCommand cmdDataBase = new MySqlCommand("select * from 스케줄;", conDataBase);
-
-                try
+                MessageBox.Show("내용을 입력해주세요!");
+            }
+            else
+            {
+                //DB에 데이터 삽입
+                using (MySqlConnection conn = new MySqlConnection(Conn))
                 {
-                    MySqlDataAdapter sda = new MySqlDataAdapter();
-                    sda.SelectCommand = cmdDataBase;
-                    DataTable dbdataset = new DataTable();
-                    sda.Fill(dbdataset);
-                    BindingSource bsource = new BindingSource();
+                    conn.Open();
+                    MySqlCommand msc = new MySqlCommand
+                        ("insert into 스케줄(트레이너닉네임,스케줄명,요일,시간) values('" + textBox3.Text + "','" + textBox4.Text + "','" + textBox5.Text + "','" + textBox6.Text + "')", conn);
+                    int result = msc.ExecuteNonQuery();
 
-                    bsource.DataSource = dbdataset;
-                    dataGridView1.DataSource = bsource;
-                    sda.Update(dbdataset);
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message);
+
+                    if (result == 1)
+                    {
+                        MessageBox.Show("스케줄이 추가 되었습니다!");
+                    }
                 }
             }
         }
