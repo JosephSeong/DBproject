@@ -47,7 +47,7 @@
 -----------------------------------------------------------------
 ### 릴레이션 스키마
 
-![image](https://user-images.githubusercontent.com/48307813/170816741-fd65e58a-a102-46c0-a0af-469eb395e101.png)
+![image](https://user-images.githubusercontent.com/48307813/175086734-a89f2f5e-4e24-43c9-a53d-8384bc13b296.png)
 -----------------------------------------------------------------
 ### 테이블 스크립트
 ![image](https://user-images.githubusercontent.com/48307813/175046265-3ab56b37-2a67-4c99-b8dd-ec8af724af69.png)
