@@ -50,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/48307813/170816741-fd65e58a-a102-46c0-a0af-469eb395e101.png)
 -----------------------------------------------------------------
 ### 테이블 스크립트
-![image](https://user-images.githubusercontent.com/48307813/173379261-6406eb49-f91f-46a6-a957-8eaeac4efa66.png)
+![image](https://user-images.githubusercontent.com/48307813/175046366-66250d33-e37f-402a-989c-05e20566bff5.png)
 
 ## 정규화 과정
 
